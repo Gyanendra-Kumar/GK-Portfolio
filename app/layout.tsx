@@ -16,6 +16,9 @@ const jetbrainsMono = JetBrains_Mono({
 
 export const metadata: Metadata = {
   title: "Gyanendra Kumar — Frontend Engineer",
+  icons: {
+    icon: "/icon.svg",
+  },
   description:
     "A passionate frontend engineer specializing in React and Next.js, dedicated to crafting performant and accessible web applications. With 6+ years in IT and 5 years focused on frontend development, I have a proven track record of delivering high-quality dashboards and improving load times by up to 50%. Let's connect and build something amazing together.",
 };
