@@ -179,7 +179,7 @@ export default function Contact() {
           </div>
 
           {/* form */}
-          <form
+          {/* <form
             onSubmit={submit}
             className="glass"
             style={{ padding: 30, display: "grid", gap: 16 }}
@@ -230,7 +230,7 @@ export default function Contact() {
                 </>
               )}
             </button>
-          </form>
+          </form> */}
         </div>
       </div>
 

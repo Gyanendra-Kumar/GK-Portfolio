@@ -15,7 +15,7 @@ export default function Testimonials() {
         <div
           style={{
             display: "grid",
-            gridTemplateColumns: "repeat(3, 1fr)",
+            gridTemplateColumns: "repeat(2, 1fr)",
             gap: 18,
             marginTop: 36,
           }}
